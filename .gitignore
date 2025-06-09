@@ -1,0 +1,14 @@
+# Vivado-generated folders
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+
+# Vivado temporary files
+*.jou
+*.log
+*.str
+*.wdb
+*.xpr.cache/
+*.webtalk/
